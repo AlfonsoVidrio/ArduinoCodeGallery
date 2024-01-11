@@ -1,2 +1,2 @@
 # ArduinoCodeGallery
-Este repositorio contiene una colección de códigos para placas Arduino, acompañados de diagramas.
+Este repositorio tiene una colección de códigos destinados a placas Arduino, cada uno acompañado de su correspondiente diagrama. 
